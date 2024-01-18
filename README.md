@@ -7,6 +7,8 @@
 > We strongly urge you to take immediate action to rectify this situation and avoid any further legal action. If you have any questions or concerns, please do not hesitate to contact us.
 > 
 > Haier Europe Security and Governance Department
+>
+FUCK Haier! Long live hOn
 
 
 **This python package is unofficial and is not related in any way to Haier. It was developed by reversed engineered requests and can stop working at anytime!**
